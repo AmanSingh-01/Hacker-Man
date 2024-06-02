@@ -5,7 +5,7 @@ let a = [
   "connection failed.. Retiring...",
   "connecting to server 2..",
   "connected successfully..",
-  'Username :- "jiya-ur-rahman"',
+  'Username :- "_veekeshpal"',
   "Trying Brute Force..",
   "200k passwords tried..",
   "Match not found..",
